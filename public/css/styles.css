@@ -1,0 +1,114 @@
+body{
+    font-family: "Pacifico";
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+}
+
+footer{
+    padding-bottom: 30px;
+    text-align: center;
+    position: relative;
+    margin: 0px auto;
+    width: 400px;
+    color: black;
+}
+
+nav a: hover{
+    /*padding: 15px;*/
+    /*color:white;*/
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+    text-align: center;
+
+}
+
+
+h1{
+    color: white; 
+    background-color: white;
+    text-align:center;
+}
+             
+a{
+    
+    padding: 20px;
+    text-align:center;
+    font-size:25px;
+    color: white;
+}
+             
+main{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+
+#mainDiv{
+    
+    /*display: flex*/;
+    justify-content: center;
+   /* width: calc(100%/3);*/
+   color:white;
+   text-align: center;
+}
+
+#typeofos{
+    background-color: black;     
+    color: white;
+    width: 250px;
+    text-align: center;
+    /*display: flex;*/
+    flex-direction: column;
+}
+             
+#osjob{
+    background-color: black;
+    color: white;
+    text-align: center;
+    /*display: flex;*/
+    flex-direction: column;   
+    justify-content: center;
+}
+
+#os{
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#topic{
+    font-size: 40px;
+}
+
+#foot{
+    color:white;
+}
+
+body{
+    background-color: black;
+}
+
+
+h1{
+    color: white; 
+    background-color: black;
+    text-align:center;
+}
+             
+a{
+    padding: 20px;
+    text-align:center;
+}
+             
+main{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
